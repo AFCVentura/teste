@@ -4,10 +4,12 @@ body {
 
 header {
 	height: 10vh;
-	background-color: #00F9FF;
+	background-color: #00091F;
 }
 
 
 h1 {
-	color: #00A1FF;
+	color: #00AD9;
+	margin: 0;
 }
+
